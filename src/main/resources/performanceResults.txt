@@ -1,0 +1,71 @@
+Mariadb results
+*attempt 1
+    Insertion time of 100000 records: 11518 ms
+    Query Execution Time: 95 ms
+*attempt 2
+    Insertion time of 100000 records: 11378 ms
+    Query Execution Time: 81 ms
+*attempt 3
+    Insertion time of 100000 records: 11263 ms
+    Query Execution Time: 82 ms
+*attempt 4
+    Insertion time of 100000 records: 11168 ms
+    Query Execution Time: 81 ms
+*attempt 5
+    Insertion time of 100000 records: 11608 ms
+    Query Execution Time: 96 ms
+*attempt 6
+    Insertion time of 100000 records: 11410 ms
+    Query Execution Time: 97 ms
+*attempt 7
+    Insertion time of 100000 records: 11544 ms
+    Query Execution Time: 79 ms
+*attempt 8
+    Insertion time of 100000 records: 11645 ms
+    Query Execution Time: 80 ms
+*attempt 9
+    Insertion time of 100000 records: 11189 ms
+    Query Execution Time: 82 ms
+*attempt 10
+    Insertion time of 100000 records: 11260 ms
+    Query Execution Time: 89 ms
+Average results
+    Average insertion time of 100000 records: 11398,3 ms
+    Average query Execution Time: 86,2 ms
+------------------------------------------------------
+PostgreSQL results
+*attempt 1
+    Insertion time of 100000 records: 15756 ms
+    Query Execution Time: 73 ms
+*attempt 2
+    Insertion time of 100000 records: 15524 ms
+    Query Execution Time: 71 ms
+*attempt 3
+    Insertion time of 100000 records: 15599 ms
+    Query Execution Time: 76 ms
+*attempt 4
+    Insertion time of 100000 records: 15970 ms
+    Query Execution Time: 75 ms
+*attempt 5
+    Insertion time of 100000 records: 15687 ms
+    Query Execution Time: 86 ms
+*attempt 6
+    Insertion time of 100000 records: 15617 ms
+    Query Execution Time: 83 ms
+*attempt 7
+    Insertion time of 100000 records: 15465 ms
+    Query Execution Time: 75 ms
+*attempt 8
+    Insertion time of 100000 records: 15597 ms
+    Query Execution Time: 76 ms
+*attempt 9
+    Insertion time of 100000 records: 15359 ms
+    Query Execution Time: 76 ms
+*attempt 10
+    Insertion time of 100000 records: 15730 ms
+    Query Execution Time: 76 ms
+Average results
+    Average insertion time of 100000 records: 15630,4 ms
+    Average query Execution Time: 76,7 ms
+
+
